@@ -11,6 +11,6 @@ Skyline High School's Computer Programming 1/2
 ### SpaceGame
 OOP Graphical Game with Sound and Keyboard/Mouse Listeners
 
-![Gameplay]()
+![Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
 [Source Code]()

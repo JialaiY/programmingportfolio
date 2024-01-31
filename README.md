@@ -24,3 +24,8 @@ OOP Graphical Game with Sound and Keyboard/Mouse Listeners
 ![Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG3.png?raw=true)
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/tree/main/src)
+
+### EtchaSketch
+![Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG5.png?raw=true)
+
+[Souce Code][https://github.com/JialaiY/programmingportfolio/tree/main/src]

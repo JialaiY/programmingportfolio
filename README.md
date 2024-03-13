@@ -6,6 +6,9 @@ Skyline High School's Computer Programming 1/2
 
 ## Group Projects (2023-24)
 
+### The Surreal Ordeal of the Seal
+[Link](https://github.com/akiaxin/creativename.git)
+
 ## Individual Projects (2023-24)
 
 ### SpaceGame
@@ -34,3 +37,4 @@ OOP Graphical Game with Sound and Keyboard/Mouse Listeners
 ![Visual](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG6.png?raw=true)
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/tree/main/src0)
+

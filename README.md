@@ -3,7 +3,7 @@ Skyline High School's Computer Programming 1/2
 
 ## USOE Tech Certifications
 * Computer Programming 1 (12/18/23)
-* [Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
+* [Link](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
 
 ## Group Projects (2023-24)
 

@@ -9,7 +9,7 @@ Skyline High School's Computer Programming 1/2
 
 ### The Surreal Ordeal of the Seal
 #### This project was created during the third-quarter of Computer Programming 2/3. This project is a a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
-[Link](https://github.com/akiaxin/creativename.git)
+![](https://github.com/akiaxin/creativename.git)
 
 ## Individual Projects (2023-24)
 

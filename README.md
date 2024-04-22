@@ -3,13 +3,13 @@ Skyline High School's Computer Programming 1/2
 
 ## USOE Tech Certifications
 * Computer Programming 1 (12/18/23)
-* [link](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
+* [Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
 
 ## Group Projects (2023-24)
 
 ### The Surreal Ordeal of the Seal
 #### This project was created during the third-quarter of Computer Programming 2/3. This project is a a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
-![](https://github.com/akiaxin/creativename.git)
+[Link](https://github.com/akiaxin/creativename.git)
 
 ## Individual Projects (2023-24)
 

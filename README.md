@@ -18,6 +18,8 @@ Demo:
 
 ![Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/BillTracker%20ScreenShot.png?raw=true)
 
+Current Code: (https://codehs.com/sandbox/id/java-main-Tww2K8?filepath=Main.java)
+
 [Source Code](https://github.com/JialaiY/programmingportfolio/blob/main/src/BillTracker.zip)
 
 ## Individual Projects (2023-24)

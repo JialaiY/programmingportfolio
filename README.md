@@ -12,7 +12,8 @@ Skyline High School's Computer Programming 1/2
 [Link](https://github.com/akiaxin/creativename.git)
 
 ## Individual Projects (2024-25)
-OOP Bill Tracking Program
+OOP Bill Tracking Program:
+This is a bill tracker. It will first ask the user for the total amout of billls. Following that, the program will allow the user to input types of bills, as well as they amount, and interest. The output will calculate the total price and remind the user of how many bills they have in total.
 
 Demo:
 

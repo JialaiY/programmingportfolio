@@ -14,6 +14,8 @@ Skyline High School's Computer Programming 1/2
 ## Individual Projects (2024-25)
 OOP Bill Tracking Program
 
+Demo:
+
 ![Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/BillTracker%20ScreenShot.png?raw=true)
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/blob/main/src/BillTracker.zip)

@@ -11,6 +11,13 @@ Skyline High School's Computer Programming 1/2
 #### This project was created during the third-quarter of Computer Programming 2/3. This project is a a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
 [Link](https://github.com/akiaxin/creativename.git)
 
+## Individual Projects (2024-25)
+OOP Bill Tracking Program
+
+![Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/BillTracker%20ScreenShot.png?raw=true)
+
+[Source Code](https://github.com/JialaiY/programmingportfolio/blob/main/src/BillTracker.zip)
+
 ## Individual Projects (2023-24)
 
 ### SpaceGame

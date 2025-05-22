@@ -1,9 +1,11 @@
 # Jialai Ying's Programmming Portfolio 2023-24
 Skyline High School's Computer Programming 1/2
+Skyline High School's Advanced Programming 
 
 ## USOE Tech Certifications
 * Computer Programming 1 (12/18/23)
 * [Link](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
+* [Link](
 
 ## Group Projects (2023-24)
 

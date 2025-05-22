@@ -54,13 +54,4 @@ OOP Graphical Game that allows the user to make simple calculations with a graph
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/tree/main/src)
 
-### EtchaSketch
-![Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG5.png?raw=true)
-
-[Souce Code](https://github.com/JialaiY/programmingportfolio/tree/main/src)
-
-### ScreenSaver
-![Visual](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG6.png?raw=true)
-
-[Source Code](https://github.com/JialaiY/programmingportfolio/tree/main/src0)
 

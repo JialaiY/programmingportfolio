@@ -1,17 +1,23 @@
-# Jialai Ying's Programmming Portfolio 2023-24
-Skyline High School's Computer Programming 1/2
+# Jialai Ying's Programmming Portfolio 2024-26
 Skyline High School's Advanced Programming 
 
 ## USOE Tech Certifications
-* Computer Programming 1 (12/18/23)
+* Computer Programming 1 (2023)
 * [Link](https://github.com/JialaiY/programmingportfolio/blob/main/images/Computer%20Programming%201%20Certificate.png?raw=true)
-* [Link](
+* Advanced Programming (2025)
+* [Link](https://certifications.youscience.com/exams/0196d544-7a2b-7000-9f70-a6edb4549845)
 
 ## Group Projects (2023-24)
 
 ### The Surreal Ordeal of the Seal
-#### This project was created during the third-quarter of Computer Programming 2/3. This project is a a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
+#### This project was created during the third-quarter of Computer Programming 2/3. This project is a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
 [Link](https://github.com/akiaxin/creativename.git)
+
+## Group Projets (2024-2025)
+
+### MathQuiz
+#### This project was created during the first quarter of Advanced Programming. This project is a simple game where the user can go through an easy math-based game. Questions are randomly generated and the user can interact with a coded GUI.
+[Link](
 
 ## Individual Projects (2024-25)
 OOP Bill Tracking Program:

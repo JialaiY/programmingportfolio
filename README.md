@@ -17,7 +17,7 @@ This project was created during the third-quarter of Computer Programming 2/3. T
 
 ### MathQuiz
 This project was created during the first quarter of Advanced Programming. This project is a simple game where the user can go through an easy math-based game. Questions are randomly generated and the user can interact with a coded GUI.
-[Link](
+[Link](https://github.com/EliSlovik/Group-Project)
 
 ## Individual Projects (2024-25)
 OOP Bill Tracking Program:

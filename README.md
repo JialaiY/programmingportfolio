@@ -37,14 +37,14 @@ This game is a simple grid-based version of Whack-a-Mole built in the Processing
 ### SpaceGame
 OOP Graphical Game with Sound and Keyboard/Mouse Listeners
 
-[Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG1.png?raw=true)
+![Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/blob/main/src/SpaceGame.zip)
 
 ### Calculator
 OOP Graphical Game that allows the user to make simple calculations with a graphical interface. Made in the Processing IDE.
 
-[Demo](https://github.com/JialaiY/programmingportfolio/assets/142963141/2686b8d0-3462-4626-8367-24c9a90ddc7a)
+![Demo](https://github.com/JialaiY/programmingportfolio/assets/142963141/2686b8d0-3462-4626-8367-24c9a90ddc7a)
 
 [Source Code](https://github.com/JialaiY/programmingportfolio/tree/main/src)
 

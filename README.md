@@ -36,9 +36,7 @@ This game is a simple grid-based version of Whack-a-Mole built in the Processing
 
 ### SpaceGame
 OOP Graphical Game with Sound and Keyboard/Mouse Listeners
-
-![Gameplay](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG1.png?raw=true)
-
+[Demo](https://github.com/JialaiY/programmingportfolio/blob/main/images/SG1.png?raw=true)
 [Source Code](https://github.com/JialaiY/programmingportfolio/blob/main/src/SpaceGame.zip)
 
 ### Calculator

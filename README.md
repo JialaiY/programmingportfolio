@@ -32,7 +32,8 @@ Current Code: (https://codehs.com/sandbox/id/java-main-Tww2K8?filepath=Main.java
 ### WackaMole
 This game is a simple grid-based version of Whack-a-Mole built in the Processing IDE. The player is presented with a 5x5 grid where "moles" randomly appear as brown circles (TrashCell objects). The player must click on the moles to gain points—each successful hit earns 10 points. After every click, the grid refreshes with a new random distribution of moles. The game uses a 30-second countdown, and the goal is to reach 200 points before time runs out. The code utilizes inheritance (with a Cell superclass and EmptyCell/TrashCell subclasses), 2D arrays to represent the grid, enhanced for loops to iterate through cells, exception handling to prevent runtime errors, and a simple GUI with buttons and score/time displays to manage the game's flow.
 
-Demo:
+![Demo](![image](https://github.com/user-attachments/assets/fffe4bc6-600a-4234-a9b9-d7da239cf6a0)
+
 
 
 ## Individual Projects (2023-24)

@@ -10,13 +10,13 @@ Skyline High School's Advanced Programming
 ## Group Projects (2023-24)
 
 ### The Surreal Ordeal of the Seal
-#### This project was created during the third-quarter of Computer Programming 2/3. This project is a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
+This project was created during the third-quarter of Computer Programming 2/3. This project is a graphic-based game where the user can go through a adventureline with the ability to go through certain situation and events.
 [Link](https://github.com/akiaxin/creativename.git)
 
 ## Group Projets (2024-2025)
 
 ### MathQuiz
-#### This project was created during the first quarter of Advanced Programming. This project is a simple game where the user can go through an easy math-based game. Questions are randomly generated and the user can interact with a coded GUI.
+This project was created during the first quarter of Advanced Programming. This project is a simple game where the user can go through an easy math-based game. Questions are randomly generated and the user can interact with a coded GUI.
 [Link](
 
 ## Individual Projects (2024-25)

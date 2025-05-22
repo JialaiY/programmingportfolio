@@ -20,7 +20,7 @@ This project was created during the first quarter of Advanced Programming. This 
 [Link](https://github.com/EliSlovik/Group-Project)
 
 ## Individual Projects (2024-25)
-OOP Bill Tracking Program:
+### OOP Bill Tracking Program:
 This is a bill tracker. It will first ask the user for the total amout of billls. Following that, the program will allow the user to input types of bills, as well as they amount, and interest. The output will calculate the total price and remind the user of how many bills they have in total.
 
 Demo:
@@ -29,7 +29,7 @@ Demo:
 
 Current Code: (https://codehs.com/sandbox/id/java-main-Tww2K8?filepath=Main.java)
 
-WackaMole
+### WackaMole
 This game is a simple grid-based version of Whack-a-Mole built in the Processing IDE. The player is presented with a 5x5 grid where "moles" randomly appear as brown circles (TrashCell objects). The player must click on the moles to gain points—each successful hit earns 10 points. After every click, the grid refreshes with a new random distribution of moles. The game uses a 30-second countdown, and the goal is to reach 200 points before time runs out. The code utilizes inheritance (with a Cell superclass and EmptyCell/TrashCell subclasses), 2D arrays to represent the grid, enhanced for loops to iterate through cells, exception handling to prevent runtime errors, and a simple GUI with buttons and score/time displays to manage the game's flow.
 
 Demo:
